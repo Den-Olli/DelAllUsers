@@ -56,7 +56,7 @@ namespace DelAllUsers
                             }
                         }
                     }
-            Console.WriteLine("\t" + delcount + "Users Deleted");
+            Console.WriteLine("\t " + delcount + "Users Deleted");
         }
     }
 }
